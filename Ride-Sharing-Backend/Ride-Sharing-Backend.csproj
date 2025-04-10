@@ -7,6 +7,7 @@
     <RootNamespace>Ride_Sharing_Backend</RootNamespace>
     <UserSecretsId>73300b82-306e-4df6-b41a-9ddd881187a8</UserSecretsId>
     <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+    <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
   </PropertyGroup>
 
   <ItemGroup>
